@@ -8,7 +8,7 @@
 
 ---
 
-## Video Links (18 Videos):
+## Video Links (18 Videos -> 1 Site + 17 Notebooks):
 
 - [Resource 0: Neural Network Playground](#resource-0-neural-network-playground)
 - [Resource 1: NumPy Foundations](#resource-1-numpy-foundations)
