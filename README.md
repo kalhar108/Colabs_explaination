@@ -30,20 +30,6 @@
 - [Resource 17: JAX Neural Networks Tutorial](#resource-17-jax-neural-networks-tutorial)
 
 ---
-## Course Structure
-
-| Tier | Resources | Focus | Total Time |
-|------|-----------|-------|------------|
-| **Explore** | Playground (Resource 0) | Hands-on intuition, zero code | ~30 min |
-| **Foundations** | Notebooks 1–4 | NumPy + framework tensors | ~2 hours |
-| **Mathematics** | Notebooks 5–8 | Calculus, probability, linear algebra | ~2 hours |
-| **Build** | Notebooks 9–10 | Neural nets from scratch + theory | ~1.5 hours |
-| **Master** | Notebooks 11–17 | Framework-specific beginner → advanced | ~3 hours |
-
-**Total course time: approximately 9 hours of hands-on learning.**
-
----
-
 ## Recommended Learning Path
 
 ```
