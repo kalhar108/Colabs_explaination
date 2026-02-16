@@ -30,21 +30,6 @@
 - [Resource 17: JAX Neural Networks Tutorial](#resource-17-jax-neural-networks-tutorial)
 
 ---
-
-## What Is This Course?
-
-DL Mastery takes you from absolute beginner to confident deep learning practitioner through three tiers:
-
-1. **Interactive Playground** — A browser-based environment at [dlmastery.github.io/neural-network-playground](https://dlmastery.github.io/neural-network-playground/) with 6 live neural network models you can train, visualize, and explore without writing code.
-
-2. **Foundation Notebooks (1–8)** — NumPy, tensor operations across three frameworks (PyTorch, TensorFlow, JAX), and the math trio: calculus, probability, and linear algebra.
-
-3. **Build & Master Notebooks (9–17)** — Neural networks from scratch, geometric intuition for why depth works, then framework-specific tutorials from beginner to advanced in PyTorch, Keras/TensorFlow, and JAX.
-
-Every concept is explained with visual ASCII diagrams, runnable code, and explicit connections to how it's used in real neural networks.
-
----
-
 ## Course Structure
 
 | Tier | Resources | Focus | Total Time |
@@ -96,17 +81,6 @@ PHASE 5: MASTER YOUR FRAMEWORK (2–3 hours)
 ```
 
 ---
-
-## Prerequisites
-
-- **Python 3.8+** — all notebooks run free on Google Colab
-- **No GPU required** — all notebooks work on CPU; GPU accelerates framework notebooks
-- **No prior deep learning knowledge** — the course starts from zero
-- **Basic Python** — variables, loops, functions, lists, dictionaries
-- **Modern web browser** — for the playground (Chrome, Firefox, Safari, Edge)
-
----
-
 ## Resource 0: Neural Network Playground
 
 **URL:** [https://dlmastery.github.io/neural-network-playground/](https://dlmastery.github.io/neural-network-playground/)
