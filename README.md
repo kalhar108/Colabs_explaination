@@ -10,10 +10,6 @@
 
 ## Video Links (18 Videos):
 
-- [What Is This Course?](#what-is-this-course)
-- [Course Structure](#course-structure)
-- [Recommended Learning Path](#recommended-learning-path)
-- [Prerequisites](#prerequisites)
 - [Resource 0: Neural Network Playground](#resource-0-neural-network-playground)
 - [Resource 1: NumPy Foundations](#resource-1-numpy-foundations)
 - [Resource 2: PyTorch Tensors from Zero to Hero](#resource-2-pytorch-tensors-from-zero-to-hero)
