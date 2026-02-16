@@ -8,20 +8,13 @@
 
 ---
 
-## Table of Contents
+## Video Links (18 Videos):
 
 - [What Is This Course?](#what-is-this-course)
 - [Course Structure](#course-structure)
 - [Recommended Learning Path](#recommended-learning-path)
 - [Prerequisites](#prerequisites)
 - [Resource 0: Neural Network Playground](#resource-0-neural-network-playground)
-  - [Model 1: Neural Net (MLP)](#model-1-neural-net-mlp)
-  - [Model 2: CNN](#model-2-cnn)
-  - [Model 3: Transformer](#model-3-transformer)
-  - [Model 4: GNN](#model-4-gnn-graph-neural-network)
-  - [Model 5: Diffusion](#model-5-diffusion)
-  - [Model 6: Design Spaces](#model-6-design-spaces)
-  - [Additional Playground Features](#additional-playground-features)
 - [Resource 1: NumPy Foundations](#resource-1-numpy-foundations)
 - [Resource 2: PyTorch Tensors from Zero to Hero](#resource-2-pytorch-tensors-from-zero-to-hero)
 - [Resource 3: TensorFlow Tensor Operations](#resource-3-tensorflow-tensor-operations)
@@ -39,10 +32,6 @@
 - [Resource 15: NumPy Foundations for Deep Learning](#resource-15-numpy-foundations-for-deep-learning)
 - [Resource 16: JAX Deep Learning Tutorial (Comprehensive)](#resource-16-jax-deep-learning-tutorial-comprehensive)
 - [Resource 17: JAX Neural Networks Tutorial](#resource-17-jax-neural-networks-tutorial)
-- [Tech Stack](#tech-stack)
-- [Key Features Across All Notebooks](#key-features-across-all-notebooks)
-- [FAQ](#faq)
-- [License & Attribution](#license--attribution)
 
 ---
 
@@ -109,8 +98,6 @@ PHASE 5: MASTER YOUR FRAMEWORK (2–3 hours)
 ├── TF/Keras path:   Resource 13 → Resource 14
 └── JAX path:        Resource 16 → Resource 17
 ```
-
-You do NOT need to complete every notebook. Pick your framework path in Phases 2 and 5. The math and from-scratch phases (3 and 4) are framework-agnostic and benefit everyone.
 
 ---
 
