@@ -10,24 +10,24 @@
 
 ## Video Links (18 Videos -> 1 Site + 17 Notebooks):
 
-- [Resource 0: Neural Network Playground]: https://www.loom.com/share/812f8fd39b4a459f9bb6d87fecc58bbb
-- [Resource 1: NumPy Foundations]: https://www.loom.com/share/32be4b8f32f940749df66b0ae12caf29
-- [Resource 2: PyTorch Tensors from Zero to Hero]: https://www.loom.com/share/b8f8c990f5d8497cace2bd742f4cf572
-- [Resource 3: TensorFlow Tensor Operations]: https://youtu.be/sfof58WxbnE
-- [Resource 4: JAX Deep Learning Tutorial]: https://www.loom.com/share/c63ac1fc40064210b72b9cdd45f84c9b
-- [Resource 5: Calculus for Deep Learning]: https://www.loom.com/share/edbba2a8527049abbfc0fea60b14480e
-- [Resource 6: Probability Fundamentals for Deep Learning]: https://www.loom.com/share/901825b5f1fd4955900bc116be0205cb
-- [Resource 7: Probability for Deep Learning]: https://www.loom.com/share/802d5cf5e8e440cfafdf6c0ff84de6b0
-- [Resource 8: Linear Algebra for Deep Learning]: https://www.loom.com/share/f5deb5e35197421ba649f4a25b9e455f
-- [Resource 9: Neural Networks from Scratch]: https://www.loom.com/share/e55da98708f5482589efea91cb69373f
-- [Resource 10: Why Deep Learning Works — Geometric Intuition]: https://www.loom.com/share/f381e268d98c4c80b0f24e6d94e06da9
-- [Resource 11: PyTorch Neural Networks Tutorial]: https://www.loom.com/share/b1656e5b3f34468a90a2991da4037457
-- [Resource 12: PyTorch Advanced Tutorial]: https://www.loom.com/share/0590282392ef45e7a251b944e30e463e
-- [Resource 13: Keras/TensorFlow Neural Networks Tutorial]: https://www.loom.com/share/f7d35fe5018745cda0a45cecf9333d91
-- [Resource 14: Keras/TensorFlow Advanced Tutorial]: https://www.loom.com/share/a02b411b792240bd8de45691dd6e1de1
-- [Resource 15: NumPy Foundations for Deep Learning]: https://www.loom.com/share/32be4b8f32f940749df66b0ae12caf29
-- [Resource 16: JAX Deep Learning Tutorial (Comprehensive)]: https://www.loom.com/share/f153864899cc441caecb8d425bcb9ea3
-- [Resource 17: JAX Neural Networks Tutorial]: https://www.loom.com/share/a78ffd77692f43c09e8b4b24a3f16c42
+- [Resource 0: Neural Network Playground](https://www.loom.com/share/812f8fd39b4a459f9bb6d87fecc58bbb)
+- [Resource 1: NumPy Foundations](https://www.loom.com/share/32be4b8f32f940749df66b0ae12caf29)
+- [Resource 2: PyTorch Tensors from Zero to Hero](https://www.loom.com/share/b8f8c990f5d8497cace2bd742f4cf572)
+- [Resource 3: TensorFlow Tensor Operations](https://youtu.be/sfof58WxbnE)
+- [Resource 4: JAX Deep Learning Tutorial](https://www.loom.com/share/c63ac1fc40064210b72b9cdd45f84c9b)
+- [Resource 5: Calculus for Deep Learning](https://www.loom.com/share/edbba2a8527049abbfc0fea60b14480e)
+- [Resource 6: Probability Fundamentals for Deep Learning](https://www.loom.com/share/901825b5f1fd4955900bc116be0205cb)
+- [Resource 7: Probability for Deep Learning](https://www.loom.com/share/802d5cf5e8e440cfafdf6c0ff84de6b0)
+- [Resource 8: Linear Algebra for Deep Learning](https://www.loom.com/share/f5deb5e35197421ba649f4a25b9e455f)
+- [Resource 9: Neural Networks from Scratch](https://www.loom.com/share/e55da98708f5482589efea91cb69373f)
+- [Resource 10: Why Deep Learning Works — Geometric Intuition](https://www.loom.com/share/f381e268d98c4c80b0f24e6d94e06da9)
+- [Resource 11: PyTorch Neural Networks Tutorial](https://www.loom.com/share/b1656e5b3f34468a90a2991da4037457)
+- [Resource 12: PyTorch Advanced Tutorial](https://www.loom.com/share/0590282392ef45e7a251b944e30e463e)
+- [Resource 13: Keras/TensorFlow Neural Networks Tutorial](https://www.loom.com/share/f7d35fe5018745cda0a45cecf9333d91)
+- [Resource 14: Keras/TensorFlow Advanced Tutorial](https://www.loom.com/share/a02b411b792240bd8de45691dd6e1de1)
+- [Resource 15: NumPy Foundations for Deep Learning](https://www.loom.com/share/32be4b8f32f940749df66b0ae12caf29)
+- [Resource 16: JAX Deep Learning Tutorial (Comprehensive)](https://www.loom.com/share/f153864899cc441caecb8d425bcb9ea3)
+- [Resource 17: JAX Neural Networks Tutorial](https://www.loom.com/share/a78ffd77692f43c09e8b4b24a3f16c42)
 
 
 ## Colab Links: (17 Colabs)
