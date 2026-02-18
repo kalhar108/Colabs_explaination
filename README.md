@@ -10,25 +10,44 @@
 
 ## Video Links (18 Videos -> 1 Site + 17 Notebooks):
 
-- [Resource 0: Neural Network Playground](#resource-0-neural-network-playground)
-- [Resource 1: NumPy Foundations](#resource-1-numpy-foundations)
-- [Resource 2: PyTorch Tensors from Zero to Hero](#resource-2-pytorch-tensors-from-zero-to-hero)
-- [Resource 3: TensorFlow Tensor Operations](#resource-3-tensorflow-tensor-operations)
-- [Resource 4: JAX Deep Learning Tutorial](#resource-4-jax-deep-learning-tutorial)
-- [Resource 5: Calculus for Deep Learning](#resource-5-calculus-for-deep-learning)
-- [Resource 6: Probability Fundamentals for Deep Learning](#resource-6-probability-fundamentals-for-deep-learning)
-- [Resource 7: Probability for Deep Learning](#resource-7-probability-for-deep-learning)
-- [Resource 8: Linear Algebra for Deep Learning](#resource-8-linear-algebra-for-deep-learning)
-- [Resource 9: Neural Networks from Scratch](#resource-9-neural-networks-from-scratch)
-- [Resource 10: Why Deep Learning Works — Geometric Intuition](#resource-10-why-deep-learning-works--geometric-intuition)
-- [Resource 11: PyTorch Neural Networks Tutorial](#resource-11-pytorch-neural-networks-tutorial)
-- [Resource 12: PyTorch Advanced Tutorial](#resource-12-pytorch-advanced-tutorial)
-- [Resource 13: Keras/TensorFlow Neural Networks Tutorial](#resource-13-kerastensorflow-neural-networks-tutorial)
-- [Resource 14: Keras/TensorFlow Advanced Tutorial](#resource-14-kerastensorflow-advanced-tutorial)
-- [Resource 15: NumPy Foundations for Deep Learning](#resource-15-numpy-foundations-for-deep-learning)
-- [Resource 16: JAX Deep Learning Tutorial (Comprehensive)](#resource-16-jax-deep-learning-tutorial-comprehensive)
-- [Resource 17: JAX Neural Networks Tutorial](#resource-17-jax-neural-networks-tutorial)
+- [Resource 0: Neural Network Playground]: https://www.loom.com/share/812f8fd39b4a459f9bb6d87fecc58bbb
+- [Resource 1: NumPy Foundations: https://www.loom.com/share/32be4b8f32f940749df66b0ae12caf29
+- [Resource 2: PyTorch Tensors from Zero to Hero]: https://www.loom.com/share/b8f8c990f5d8497cace2bd742f4cf572
+- [Resource 3: TensorFlow Tensor Operations]: https://youtu.be/sfof58WxbnE
+- [Resource 4: JAX Deep Learning Tutorial]: https://www.loom.com/share/c63ac1fc40064210b72b9cdd45f84c9b
+- [Resource 5: Calculus for Deep Learning]: https://www.loom.com/share/edbba2a8527049abbfc0fea60b14480e
+- [Resource 6: Probability Fundamentals for Deep Learning]: https://www.loom.com/share/901825b5f1fd4955900bc116be0205cb
+- [Resource 7: Probability for Deep Learning]: https://www.loom.com/share/802d5cf5e8e440cfafdf6c0ff84de6b0
+- [Resource 8: Linear Algebra for Deep Learning]: https://www.loom.com/share/f5deb5e35197421ba649f4a25b9e455f
+- [Resource 9: Neural Networks from Scratch]: https://www.loom.com/share/e55da98708f5482589efea91cb69373f
+- [Resource 10: Why Deep Learning Works — Geometric Intuition]: https://www.loom.com/share/f381e268d98c4c80b0f24e6d94e06da9
+- [Resource 11: PyTorch Neural Networks Tutorial]: https://www.loom.com/share/b1656e5b3f34468a90a2991da4037457
+- [Resource 12: PyTorch Advanced Tutorial]: https://www.loom.com/share/0590282392ef45e7a251b944e30e463e
+- [Resource 13: Keras/TensorFlow Neural Networks Tutorial]: https://www.loom.com/share/f7d35fe5018745cda0a45cecf9333d91
+- [Resource 14: Keras/TensorFlow Advanced Tutorial]: https://www.loom.com/share/a02b411b792240bd8de45691dd6e1de1
+- [Resource 15: NumPy Foundations for Deep Learning]: https://www.loom.com/share/32be4b8f32f940749df66b0ae12caf29
+- [Resource 16: JAX Deep Learning Tutorial (Comprehensive)]: https://www.loom.com/share/f153864899cc441caecb8d425bcb9ea3
+- [Resource 17: JAX Neural Networks Tutorial]: https://www.loom.com/share/a78ffd77692f43c09e8b4b24a3f16c42
 
+
+## Colab Links: (17 Colabs)
+- 1) https://colab.research.google.com/drive/1w1xSh8Ij0hchfaDnjcx8dGWhv4YjvZC7
+- 2) https://colab.research.google.com/drive/1AyB-eifbL3q-JILCJeYN04TAd3xWB22r
+- 3) https://colab.research.google.com/drive/1PtMCCYJAW16i6lElCbNZfFzfhoaMxb6Y
+- 4) https://colab.research.google.com/drive/14xvV-2KC0S88X65pna0Iyx8EYgfYy8gV
+- 5) https://colab.research.google.com/drive/1laWv_QKXTYXt3KxATsbIs45sQskCOe08
+- 6) https://colab.research.google.com/drive/10doWB_Pq3qwp3jYBVQbhGS_X210INefC
+- 7) https://colab.research.google.com/drive/1t86e3fOVsug5ubZBI7hoGH-XPWAsOFOM
+- 8) https://colab.research.google.com/drive/1xQT5rky70xHftZ2cJPMmKaSmWy3Jx6jG
+- 9) https://colab.research.google.com/drive/12drGEeBoKYaSspdlXC_-qzKxSNkrm094
+- 10) https://colab.research.google.com/drive/10q2z43dTovysP5vXsBfApMTz9ydR5Qv6
+- 11) https://colab.research.google.com/drive/1q9hRDexk9SYMrbtsNmeatvO2f5y9fhS9
+- 12) https://colab.research.google.com/drive/1HXCw4qUIPaG4hk9nJsi8qTxw3Xypad3O
+- 13) https://colab.research.google.com/drive/1uqUQ69HjcwbAOBxo-IV62LWYOrLdC3hA
+- 14) https://colab.research.google.com/drive/1F1k63lKP8yTW7NAZ8LPvuk58dxNL5kWe
+- 15) https://colab.research.google.com/drive/1Zj08EV_bArsDJLl5g4iSVq1KdUEPElHY
+- 16) https://colab.research.google.com/drive/15gckJhfc9h9nln4ezDGKFQvHFr8YGx1H
+- 17) https://colab.research.google.com/drive/1BtJxw8CveXccErtqv_FXfixtMJLHuJFg
 ---
 ## Recommended Learning Path
 
