@@ -11,7 +11,7 @@
 ## Video Links (18 Videos -> 1 Site + 17 Notebooks):
 
 - [Resource 0: Neural Network Playground]: https://www.loom.com/share/812f8fd39b4a459f9bb6d87fecc58bbb
-- [Resource 1: NumPy Foundations: https://www.loom.com/share/32be4b8f32f940749df66b0ae12caf29
+- [Resource 1: NumPy Foundations]: https://www.loom.com/share/32be4b8f32f940749df66b0ae12caf29
 - [Resource 2: PyTorch Tensors from Zero to Hero]: https://www.loom.com/share/b8f8c990f5d8497cace2bd742f4cf572
 - [Resource 3: TensorFlow Tensor Operations]: https://youtu.be/sfof58WxbnE
 - [Resource 4: JAX Deep Learning Tutorial]: https://www.loom.com/share/c63ac1fc40064210b72b9cdd45f84c9b
